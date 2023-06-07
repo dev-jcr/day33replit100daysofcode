@@ -18,7 +18,7 @@ def c(color):
   elif color == "purple":
     return ("\033[35m")
 
-# To-Do List
+# Empty list creation
 tasks = []
 
 # Title
