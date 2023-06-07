@@ -1,3 +1,6 @@
+# Dynamic list. To do list
+
+# libraries
 import os, time
 
 # Color change subroutine
@@ -73,8 +76,7 @@ while True:
     print(f"{c('white')}Which one you want to change")
     continue
     
-# Course solution
-
+# Course solution:
 # import os, time
 # toDoList = []
 
